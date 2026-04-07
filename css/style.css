@@ -87,6 +87,8 @@ ion-icon,
 button,
 a {
   display: block;
+  text-decoration: none;
+  color: #ffff;
 }
 
 span {
